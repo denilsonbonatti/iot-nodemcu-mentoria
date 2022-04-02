@@ -2,7 +2,7 @@
 #include <ESP8266WiFi.h>
 
 const char* ssid = "Casa";
-const char* senha = "dLb1979**";
+const char* senha = "";
 
 int ledPin = 13; //corresponde ao pino D7 do nodemcu
 
